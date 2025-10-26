@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.build/
+.env
+.venv
+.envrc
+.DS_Store
+.cache/
+.streamlit/
+reports/
+exports/
